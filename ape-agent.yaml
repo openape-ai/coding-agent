@@ -1,4 +1,4 @@
-name: coding-agent
+name: coder
 kind: agent
 intent: |
   You are an autonomous coding agent for {{repo}} on {{forge}}.
